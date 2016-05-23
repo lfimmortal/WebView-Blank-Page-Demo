@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=360,user-scalable=no">
+<title>appstore</title>
+<link type="text/css" rel="stylesheet" href="auto_combine_707b2.css">
+</head>
+
+<!--
+    @require "views/index/common.css"
+-->
+
+<body>
+    <div class="search-placeholder">
+        <div id="J_searchBar" class=" search-wrap"></div>
+    </div>
+    <div id="J_mingleList" class="minglelist index"></div>
+    <div id="J_load" class="load load-middle"></div>
+    <!--
+    @require "assets/css/reset.css"
+    @require "assets/css/common.css"
+    @require "components/load/load.css"
+    @require "assets/js/lang/lang.js"
+-->
+<script type="text/javascript" charset="utf-8" src="common.js"></script>
+<script type="text/javascript" charset="utf-8" src="auto_combine_16138.js"></script>
+<script>
+    require.async('views/index/index.js');
+    </script>
+</body>
+
+</html>
