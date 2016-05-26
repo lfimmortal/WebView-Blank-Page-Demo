@@ -1,7 +1,7 @@
 # WebView-Blank-Page-Demo
 Demo to show a Android WebView problem.
 
-APK file attached in release tab and /out folder.
+APK file can be downloaded here: https://github.com/lfimmortal/WebView-Blank-Page-Demo/releases/download/1.0/WebView-Demo.apk
 
 -
 
