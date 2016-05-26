@@ -1,4 +1,4 @@
-# WebView-Render-Demo
+# WebView-Blank-Page-Demo
 Demo to show a Android WebView problem.
 
 
