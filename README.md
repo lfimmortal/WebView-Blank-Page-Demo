@@ -1,7 +1,8 @@
 # WebView-Blank-Page-Demo
 Demo to show a Android WebView problem.
+APK file attached in release tab and /out folder.
 
-
+-
 
 Device name:
 Xiaomi Mi4, Xiaomi Mi Note, Moto X Style
