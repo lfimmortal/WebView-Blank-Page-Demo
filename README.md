@@ -13,7 +13,7 @@ WebView version (from system settings -> Apps -> Android System WebView):
 50.0.2661.86
 
 Application:
-Xiaomi App Market, our Demo( )
+Xiaomi App Market, our Demo(this project)
 
 Application version:
 
