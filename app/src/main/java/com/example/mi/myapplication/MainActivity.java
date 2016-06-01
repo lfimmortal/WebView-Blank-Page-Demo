@@ -108,7 +108,7 @@ public class MainActivity extends Activity {
                 intent.putExtra(EXTRA_URL, url);
 
                 mCurrentActivity.startActivity(intent);
-//                mCurrentActivity.finish();
+                mCurrentActivity.finish();
             }
         }
     }
